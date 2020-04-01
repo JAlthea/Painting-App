@@ -1,5 +1,5 @@
 # Painting App
-The existing Paint application has been customized. <br>
+The Paint application has been customized. <br>
 Used tech : <b>Java (Android)</b> <br>
 
 # Execution Screen
